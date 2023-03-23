@@ -3,3 +3,13 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.header{
+    margin: 0 auto;
+   text-align: center;
+}
+.header-top{
+    padding-top:20px;
+    padding-bottom:20px;
+    border-bottom:1px solid black ;
+}
